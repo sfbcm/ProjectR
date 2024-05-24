@@ -1,0 +1,64 @@
+{
+    "reservations": [
+      {
+        "venueId": "834",
+        "date": "2024-05-28",
+        "earliest": "18:00",
+        "latest": "19:00",
+        "partySize": 2
+      },
+      {
+        "venueId": "834",
+        "date": "2024-05-27",
+        "earliest": "18:00",
+        "latest": "19:00",
+        "partySize": 4
+      },
+    {
+      "venueId": "834",
+      "date": "2024-05-30",
+      "earliest": "18:00",
+      "latest": "19:00",
+      "partySize": 2
+    },
+    {
+      "venueId": "834",
+      "date": "2024-06-01",
+      "earliest": "20:00",
+      "latest": "21:00",
+      "partySize": 4
+    },
+    {
+      "venueId": "834",
+      "date": "2024-05-24",
+      "earliest": "18:00",
+      "latest": "20:00",
+      "partySize": 3
+    },
+    {
+      "venueId": "834",
+      "date": "2024-05-25",
+      "earliest": "20:30",
+      "latest": "21:30",
+      "partySize": 3
+    },
+    {
+      "venueId": "64593",
+      "date": "2024-05-29",
+      "earliest": "20:00",
+      "latest": "21:00",
+      "partySize": 2
+    },
+    {
+      "venueId": "834",
+      "date": "2024-05-30",
+      "earliest": "18:00",
+      "latest": "19:00",
+      "partySize": 2
+    }
+
+    ],
+    "authToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJleHAiOjE3MjAxNzQxMzYsInVpZCI6NTA4NTIxMTksImd0IjoiY29uc3VtZXIiLCJncyI6W10sImxhbmciOiJlbi11cyIsImV4dHJhIjp7Imd1ZXN0X2lkIjoxNjA0MDMxMTZ9fQ.ASo08HhprXU3CabjMUxW56CEDqFj-eNqM_JxQdKyLZJ3QOw_Y-hcU1ku3VXG1ngV6QOv75PC-rppUuLVqJslnaBFAOLd-YHRa8f6JokqndVWovlPpf2XJ-tAcxboe982wZlVITweGqhg01GlX2lrCc0ymABCTWdLOyVVwl1F3bq6vwFB",
+    "paymentId": "24201727"
+  }
+  
