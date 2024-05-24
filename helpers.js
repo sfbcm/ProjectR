@@ -19,7 +19,6 @@ function convertDateToLongFormat(date) {
 function isTimeBetween(startTime, endTime, dateString) {
   let targetTime = dateString.split(' ')[1];
 
-  // Convert times to minutes since midnight
   const convertToMinutes = (timeStr) => {
     const [hours, minutes] = timeStr.split(':').map(Number);
     return hours * 60 + minutes;
@@ -40,7 +39,6 @@ async function checkTokenExpiration(token) {
 
   try {
     const decoded = jwt.decode(token);
-
     if (decoded) {
       const currentTimestamp = Math.floor(Date.now() / 1000);
       const timeUntilExpiration = decoded.exp - currentTimestamp;
@@ -50,7 +48,6 @@ async function checkTokenExpiration(token) {
         console.log('JWT has already expired');
         return false;
       } else {
-       // console.log(`JWT will expire on ${expirationDate}`);
         return true;
       }
     } else {
