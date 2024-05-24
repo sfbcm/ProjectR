@@ -58,7 +58,7 @@
     }
 
     ],
-    "authToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJleHAiOjE3MjAxNzQxMzYsInVpZCI6NTA4NTIxMTksImd0IjoiY29uc3VtZXIiLCJncyI6W10sImxhbmciOiJlbi11cyIsImV4dHJhIjp7Imd1ZXN0X2lkIjoxNjA0MDMxMTZ9fQ.ASo08HhprXU3CabjMUxW56CEDqFj-eNqM_JxQdKyLZJ3QOw_Y-hcU1ku3VXG1ngV6QOv75PC-rppUuLVqJslnaBFAOLd-YHRa8f6JokqndVWovlPpf2XJ-tAcxboe982wZlVITweGqhg01GlX2lrCc0ymABCTWdLOyVVwl1F3bq6vwFB",
+    "authToken": "",
     "paymentId": "24201727"
   }
   
