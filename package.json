@@ -1,0 +1,23 @@
+{
+  "name": "resy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./env_manager.sh && node --env-file=.env index.js",
+    "start:today": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.66.0",
+    "axios": "^1.5.1",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^7.0.4",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
